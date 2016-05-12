@@ -4,13 +4,14 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-12T20:48:52.833Z'
-dateModified: '2016-05-12T20:48:41.350Z'
+description: Relevance Path Marketing
+datePublished: '2016-05-12T20:51:23.527Z'
+dateModified: '2016-05-12T20:49:00.044Z'
 title: Relevance Path
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-12-relevance-path.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-relevance-path.md
 url: relevance-path/index.html
 _type: Article
 
