@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Relevance Path Marketing
-datePublished: '2016-05-12T20:51:23.527Z'
-dateModified: '2016-05-12T20:49:00.044Z'
+datePublished: '2016-05-12T20:52:59.662Z'
+dateModified: '2016-05-12T20:51:29.477Z'
 title: Relevance Path
 author:
   - name: ''
