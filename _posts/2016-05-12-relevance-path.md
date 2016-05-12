@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Relevance Path Marketing
-datePublished: '2016-05-12T20:52:59.662Z'
-dateModified: '2016-05-12T20:51:29.477Z'
+datePublished: '2016-05-12T20:54:09.292Z'
+dateModified: '2016-05-12T20:54:06.843Z'
 title: Relevance Path
 author:
   - name: ''
@@ -23,4 +23,4 @@ url: relevance-path/index.html
 _type: Article
 
 ---
-![Relevance Path Marketing](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e71288e-4375-4b4a-a3a6-6b7c46be3b6a.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/abe78b201d4c4aa1b1b56066628d3b8b1936dafa.png)
