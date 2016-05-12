@@ -1,6 +1,6 @@
 name: Relevance Path
 favicon: null
-layout_spectrum: 0.6056823255494237
+layout_spectrum: 1
 typography_spectrum: 0.2781527799088508
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#4d4a69'
+    - '#bdc345'
+    - '#dee4a3'
+    - '#a5a3b3'
+    - '#7f7c93'
   brandStrength: 0.25559289823286235
   lightness: 0.2689819009974599
   saturation: 0.5394642355386168
-  rhythmicContrast: 0.5238888568710536
+  rhythmicContrast: 0.5
 purpose: []
