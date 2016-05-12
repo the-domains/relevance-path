@@ -1,0 +1,28 @@
+name: Relevance Path
+favicon: null
+layout_spectrum: 0.6056823255494237
+typography_spectrum: 0.2781527799088508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.25559289823286235
+  lightness: 0.2689819009974599
+  saturation: 0.5394642355386168
+  rhythmicContrast: 0.5238888568710536
+purpose: []
