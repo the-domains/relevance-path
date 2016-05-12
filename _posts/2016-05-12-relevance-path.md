@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Relevance Path Marketing
-datePublished: '2016-05-12T20:56:34.479Z'
-dateModified: '2016-05-12T20:56:28.851Z'
+datePublished: '2016-05-12T21:00:21.881Z'
+dateModified: '2016-05-12T20:58:13.174Z'
 title: Relevance Path
 author:
   - name: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: relevance-path/index.html
 _type: WebPage
 
