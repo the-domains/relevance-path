@@ -28,5 +28,8 @@ navigation:
   - name: Home
     url: paulives.ca
     type: external
+  - name: Get Involved
+    url: 'http://paulives.ca/get-involved/'
+    type: external
 favicon: null
 purpose: []
